@@ -1,0 +1,227 @@
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\appsettings.Development.json
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\appsettings.json
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\API.exe
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\API.deps.json
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\API.runtimeconfig.json
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\API.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\ref\API.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\API.pdb
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.csproj.CopyComplete
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.dll
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\ref\API.dll
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.pdb
+E:\SYNC FOLDERS\test\Angular\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Humanizer.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\SYNC FOLDERS\test\Angular\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\AutoMapper.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\CloudinaryDotNet.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\Data\UserSeedData.json
+E:\SYNC FOLDERS\test\Angular\api\bin\Debug\net5.0\package-lock.json
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\appsettings.Development.json
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\appsettings.json
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Data\UserSeedData.json
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\API.exe
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\API.deps.json
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\API.runtimeconfig.json
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\API.runtimeconfig.dev.json
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\API.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\ref\API.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\API.pdb
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\AutoMapper.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\CloudinaryDotNet.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Humanizer.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.AssemblyInfo.cs
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.CopyComplete
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\ref\API.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.pdb
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.genruntimeconfig.cache
+E:\SYNC FOLDERS\Anguler\Angular\api\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\SYNC FOLDERS\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\appsettings.Development.json
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\appsettings.json
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Data\UserSeedData.json
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.exe
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.deps.json
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.runtimeconfig.json
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.runtimeconfig.dev.json
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\ref\API.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.pdb
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\AutoMapper.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\CloudinaryDotNet.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Humanizer.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.AssemblyInfo.cs
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.CopyComplete
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.dll
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\ref\API.dll
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.pdb
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.genruntimeconfig.cache
