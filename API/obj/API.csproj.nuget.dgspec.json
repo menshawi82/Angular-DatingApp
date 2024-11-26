@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Sync_Foldes\\Anguler\\Angular\\API\\API.csproj": {}
+    "E:\\Sync_Foldes\\Anguler\\Angular\\api\\API.csproj": {}
   },
   "projects": {
-    "E:\\Sync_Foldes\\Anguler\\Angular\\API\\API.csproj": {
+    "E:\\Sync_Foldes\\Anguler\\Angular\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Sync_Foldes\\Anguler\\Angular\\API\\API.csproj",
+        "projectUniqueName": "E:\\Sync_Foldes\\Anguler\\Angular\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Sync_Foldes\\Anguler\\Angular\\API\\API.csproj",
+        "projectPath": "E:\\Sync_Foldes\\Anguler\\Angular\\api\\API.csproj",
         "packagesPath": "C:\\Users\\mensh\\.nuget\\packages\\",
-        "outputPath": "E:\\Sync_Foldes\\Anguler\\Angular\\API\\obj\\",
+        "outputPath": "E:\\Sync_Foldes\\Anguler\\Angular\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mensh\\AppData\\Roaming\\NuGet\\NuGet.Config",

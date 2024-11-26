@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wiWmHkHGMIw=",
+  "dgSpecHash": "oitK/Lf7D4s=",
   "success": true,
-  "projectFilePath": "E:\\Sync_Foldes\\Anguler\\Angular\\API\\API.csproj",
+  "projectFilePath": "E:\\Sync_Foldes\\Anguler\\Angular\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mensh\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mensh\\.nuget\\packages\\cloudinarydotnet\\1.26.2\\cloudinarydotnet.1.26.2.nupkg.sha512",
