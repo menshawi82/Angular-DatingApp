@@ -157,7 +157,6 @@ E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.deps.json
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.runtimeconfig.json
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.runtimeconfig.dev.json
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.dll
-E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\ref\API.dll
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.pdb
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\AutoMapper.dll
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -209,7 +208,6 @@ E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-arm\native\e_sq
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csprojAssemblyReference.cache
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.AssemblyInfo.cs
@@ -217,11 +215,19 @@ E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.CoreCompileInputs
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
-E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
-E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.CopyComplete
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.dll
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\ref\API.dll
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.pdb
 E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.genruntimeconfig.cache
+E:\Sync_Foldes\Anguler\Angular\api\bin\Debug\net5.0\API.StaticWebAssets.xml
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.sourcelink.json
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Pack.cache
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\msbuild.build.API.props
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\API.csproj.Up2Date
+E:\Sync_Foldes\Anguler\Angular\api\obj\Debug\net5.0\refint\API.dll
